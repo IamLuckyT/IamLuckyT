@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Letlhogonolo Mothoagae</h1>
-<h3 align="center">An aspiring full stack developer from South Africa, I am currently pursuing a BSc degree in Computer Science and Electronics (final year) I am Aspiring Software Engineer with a love for Cyber Security, Cloud computing and Networks.</h3>
+<h3 align="center">An aspiring full stack developer from South Africa, I am currently pursuing a BSc degree in Computer Science and Electronics (final year) I have a love for Web Dev, Cyber Security, Cloud computing and Networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamluckyt&label=Profile%20views&color=0e75b6&style=flat" alt="iamluckyt" /> </p>
 
