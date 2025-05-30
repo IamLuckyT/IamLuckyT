@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamluckyt" alt="iamluckyt" /></a> </p>
 
-- 🔭 I’m currently working on [FNB App Academy projects](https://github.com/IamLuckyT/FNB-App-Academy)
+- 🔭 I’m currently working on [FNB App Academy projects](https://github.com/IamLuckyT/FNB-App-Academy) and building my own Profile (
 
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing and Cyber Security analysis**
 
