@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Letlhogonolo Mothoagae</h1>
-<h3 align="center">An aspiring full stack developer from South Africa, I am currently pursuing a BSc degree in Computer Science and Electronics (final year) I love for Web Dev, Cyber Security, Cloud computing and Networks.</h3>
+<h3 align="center">An aspiring full stack developer from South Africa, I am currently pursuing a BSc degree in Computer Science and Electronics (final year) I love Web Dev, Cyber Security, Cloud computing and Networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamluckyt&label=Profile%20views&color=0e75b6&style=flat" alt="iamluckyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamluckyt" alt="iamluckyt" /></a> </p>
 
-- 🔭 I’m currently working on [FNB App Academy projects](https://github.com/IamLuckyT/FNB-App-Academy), building [my own Profile](https://github.com/IamLuckyT/PersonalProfile) and learning MongoDB
+- 🔭 I’m currently working on [FNB App Academy projects](https://github.com/IamLuckyT/FNB-App-Academy), building [my own Profile](https://github.com/IamLuckyT/PersonalProfile) and Cybersecurity Fundamentals
 
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing and Cyber Security analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IamLuckyT](https://github.com/IamLuckyT)
 
 - 💬 Ask me about **HTML, CSS, Networks and Social Media Management.**
-
-- 📫 How to reach me **tlhogi.mothoagae@gmail.com**
 
 - ⚡ Fun fact **Besides tech my interests are social media management and project management.**
 
