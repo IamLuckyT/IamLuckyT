@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamluckyt" alt="iamluckyt" /></a> </p>
 
-- 🔭 I’m currently working on [Plug Connect Solutions](https://github.com/IamLuckyT/FNB-App-Academy), which is a Software Development business that focuses on providing digital solutions for other businesses. The company focuses on providing Web Development Solutions, App Development Solutions, Business Automations and Social Media Management.
+- 🔭 I’m currently working on [Plug Connect Solutions](https://github.com/plug-connect-solutions), which is a Software Development business that focuses on providing digital solutions for other businesses. The company focuses on providing Web Development Solutions, App Development Solutions, Business Automations and Social Media Management.
 
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing and Cyber Security analysis**
 
