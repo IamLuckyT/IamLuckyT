@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Letlhogonolo Mothoagae</h1>
-<h3 align="center">An aspiring full stack developer from South Africa, I am currently pursuing a BSc degree in Computer Science and Electronics (final year) I love Web Dev, Cyber Security, Cloud computing and Networks.</h3>
+<h3 align="center">A full stack developer from South Africa, I am currently pursuing a BSc degree in Computer Science and Electronics (final year) I love Web Dev, Cyber Security, Cloud computing and Networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamluckyt&label=Profile%20views&color=0e75b6&style=flat" alt="iamluckyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamluckyt" alt="iamluckyt" /></a> </p>
 
-- 🔭 I’m currently working on [FNB App Academy projects](https://github.com/IamLuckyT/FNB-App-Academy), building [my own Profile](https://github.com/IamLuckyT/PersonalProfile) and Cybersecurity Fundamentals
+- 🔭 I’m currently working on [Plug Connect Solutions](https://github.com/IamLuckyT/FNB-App-Academy), which is a Software Development business that focuses on providing digital solutions for other businesses. The company focuses on providing Web Development Solutions, App Development Solutions, Business Automations and Social Media Management.
 
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing and Cyber Security analysis**
 
